@@ -17,6 +17,10 @@ The game challenges users to solve word puzzles by identifying correct words bas
 * Android-based mobile application
 
 ## Screenshots:
+| Home Screen                          | Login Screen                              | Game Screen                          |
+| ------------------------------------ | ----------------------------------------- | ------------------------------------ |
+| ![Home Screen](screenshots/home.png) | ![Login](screenshots/login.png) | ![Game Screen](screenshots/game.png) |
+
 
 
 ## Technologies Used
